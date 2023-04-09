@@ -5,7 +5,7 @@ We, takes your privacy seriously. To better protect your privacy we provide this
 
 ## Collection of Routine Information
 
-This app track basic information about their visitors and users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific visitors and user to this app. The information is tracked for routine administration and maintenance purposes.
+This app track basic information about their visitors and users. This information includes, but is not limited to, location details, timestamps and referring pages. None of this information can personally identify specific visitors to this app.
 
 
 
